@@ -1,0 +1,28 @@
+{
+  "name": "tsc-node-next",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/azu/tsc-node-next",
+  "bugs": {
+    "url": "https://github.com/azu/tsc-node-next/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/azu/tsc-node-next.git"
+  },
+  "license": "MIT",
+  "author": "azu",
+  "main": "lib/tsc-node-next.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "files": [
+    "bin/",
+    "lib/",
+    "src/"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
